@@ -2,8 +2,8 @@ package Punto8;
 
 public class Animal {
 
-  int edad;
+    int edad;
   
-  public void comer() {
-  }
+    public void comer() {
+    }
 }
